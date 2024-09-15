@@ -53,6 +53,8 @@ namespace TAP_U1P4_B
             productPrice.Value = 0;
             quantity.Value = 0;
             labelCantidad.Text = "0";
+            selectBox.SelectedIndex = -1;
+            btnDelete.Visible = false;
         }
 
         private void btnGuardar_Click(object sender, EventArgs e)
@@ -100,6 +102,7 @@ namespace TAP_U1P4_B
 
                 MessageBox.Show("Guardado");
                 btnLimpiar_Click(sender, e);
+                cargar();
             }
             catch (Exception ex)
             {
@@ -121,6 +124,7 @@ namespace TAP_U1P4_B
                 lista = JsonConvert.DeserializeObject<List<Producto>>(json);
 
                 cargar();
+                btnDelete.Visible = false;
             }
             catch (Exception ex)
             {
@@ -131,6 +135,7 @@ namespace TAP_U1P4_B
 
         private void cargar()
         {
+            btnDelete.Visible = false;
             selectBox.Items.Clear();
             foreach (Producto p in lista)
             {
@@ -150,6 +155,7 @@ namespace TAP_U1P4_B
                 quantity.Value = p.Cantidad;
                 productPrice.Value = (decimal)p.Precio;
                 labelCantidad.Text = "" + p.Cantidad;
+                btnDelete.Visible = true;
                 try
                 {
                     imgBox.Load(p.Imagen);
@@ -165,6 +171,30 @@ namespace TAP_U1P4_B
             
 
             // Cargar los datos del producto seleccionado
+        }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            if (selectBox.SelectedIndex >= 0)
+            {
+                DialogResult result = MessageBox.Show("¿Estás seguro de eliminar el producto?", "Confirmar eliminación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (result == DialogResult.Yes)
+                {
+                    lista.RemoveAt(selectBox.SelectedIndex);
+                    String json = JsonConvert.SerializeObject(lista);
+                    StreamWriter sw = new StreamWriter("productos.json", false);
+                    sw.Write(json);
+                    sw.Close();
+                    cargar();
+                    btnLimpiar_Click(sender, e);
+                    MessageBox.Show("Producto eliminado"); 
+                    selectBox.SelectedIndex = -1;
+                }
+                else
+                {
+                    MessageBox.Show("Operación cancelada, no se elimino el producto");
+                }
+            }
         }
     }
 }
