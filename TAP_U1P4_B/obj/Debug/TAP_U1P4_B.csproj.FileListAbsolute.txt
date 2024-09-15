@@ -1,0 +1,29 @@
+C:\Users\iscal\OneDrive\Documents\VSProjects\AgoDic2024\TAP_U1P4_B\TAP_U1P4_B\bin\Debug\TAP_U1P4_B.exe.config
+C:\Users\iscal\OneDrive\Documents\VSProjects\AgoDic2024\TAP_U1P4_B\TAP_U1P4_B\bin\Debug\TAP_U1P4_B.exe
+C:\Users\iscal\OneDrive\Documents\VSProjects\AgoDic2024\TAP_U1P4_B\TAP_U1P4_B\bin\Debug\TAP_U1P4_B.pdb
+C:\Users\iscal\OneDrive\Documents\VSProjects\AgoDic2024\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.csproj.AssemblyReference.cache
+C:\Users\iscal\OneDrive\Documents\VSProjects\AgoDic2024\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.Form1.resources
+C:\Users\iscal\OneDrive\Documents\VSProjects\AgoDic2024\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.Properties.Resources.resources
+C:\Users\iscal\OneDrive\Documents\VSProjects\AgoDic2024\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.csproj.GenerateResource.cache
+C:\Users\iscal\OneDrive\Documents\VSProjects\AgoDic2024\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.csproj.CoreCompileInputs.cache
+C:\Users\iscal\OneDrive\Documents\VSProjects\AgoDic2024\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.exe
+C:\Users\iscal\OneDrive\Documents\VSProjects\AgoDic2024\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.pdb
+C:\Users\iscal\OneDrive\Documents\VSProjects\AgoDic2024\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.ProductosForm.resources
+C:\Users\iscal\OneDrive\Documents\VSProjects\AgoDic2024\TAP_U1P4_B\TAP_U1P4_B\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iscal\OneDrive\Documents\VSProjects\AgoDic2024\TAP_U1P4_B\TAP_U1P4_B\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iscal\OneDrive\Documents\VSProjects\AgoDic2024\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.csproj.CopyComplete
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\bin\Debug\TAP_U1P4_B.exe.config
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\bin\Debug\TAP_U1P4_B.exe
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\bin\Debug\TAP_U1P4_B.pdb
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.csproj.AssemblyReference.cache
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.Form1.resources
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.ProductosForm.resources
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.Properties.Resources.resources
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.csproj.GenerateResource.cache
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.csproj.CoreCompileInputs.cache
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.csproj.Up2Date
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.exe
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.pdb
+C:\Users\hfyh\OneDrive\Documentos\Uni Programas\TAP_U1P4_B\TAP_U1P4_B\obj\Debug\TAP_U1P4_B.Ventas.resources
